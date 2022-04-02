@@ -34,6 +34,11 @@ Predict Bitcoin price based on Indicators (Google Trends, etc.)
 1. Project scaffolding
 1. Tentative schedule for project completion
 
+### Homework:
+
+1. Investigate alternative libraries to scikit and tensorflow
+1. Investigate alternative models within scikit and tensorflow
+
 ## Apr 4, 2022
 
 1. Collect indicator data
