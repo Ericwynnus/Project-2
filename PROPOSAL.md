@@ -37,7 +37,8 @@ Predict Bitcoin price based on Indicators (Google Trends, etc.)
 ## Apr 4, 2022
 
 1. Collect indicator data
-1. Decide on a "non-class" model/service to use as an alternative predictor
+1. Decide on a second model/service to use as an alternative predictor
+   1. "Use one new machine learning library, machine learning model, or evaluation metric that hasn't been covered in class."
 1. Create models for 3 indicators, choosing 2 different libraries/service for training & predictions
 
 ## Apr 6, 2022
@@ -47,10 +48,11 @@ Predict Bitcoin price based on Indicators (Google Trends, etc.)
 ## Apr 9, 2022
 
 1. Finish model back testing & tuning: prep/fit/prediction variations to determine best results
+1. Generate visualizations (plots, etc.)
 
 ## Apr 11, 2022
 
-1. Create presentation template.
+1. Create presentation.
 
 ## Apr 13, 2022
 
