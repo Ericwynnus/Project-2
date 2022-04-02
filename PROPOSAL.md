@@ -42,11 +42,11 @@ Predict Bitcoin price based on Indicators (Google Trends, etc.)
 
 ## Apr 6, 2022
 
-1. Continue with model tuning: prep/fit/prediction variations to determine best results
+1. Continue with model back testing & tuning: prep/fit/prediction variations to determine best results
 
 ## Apr 9, 2022
 
-1. Finish model tuning: prep/fit/prediction variations to determine best results
+1. Finish model back testing & tuning: prep/fit/prediction variations to determine best results
 
 ## Apr 11, 2022
 
