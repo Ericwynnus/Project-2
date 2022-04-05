@@ -20,7 +20,7 @@ determine which provides more accurate predictions regarding Bitcoin price.
 
 # Datasets to be Used
 
-1. Google Trends
+1. Google Trends (PyTrends)
 1. Alpaca (BTC)
 1. Reuters
 1. Fear and Greed Index
@@ -42,9 +42,9 @@ determine which provides more accurate predictions regarding Bitcoin price.
 ## Apr 4, 2022
 
 1. Collect indicator data
-1. Decide on a second model/service to use as an alternative predictor
+1. Decide on a second model/service to use as an alternative predictor - DONE: Prophet
    1. "Use one new machine learning library, machine learning model, or evaluation metric that hasn't been covered in class."
-1. Create models for 3 indicators, choosing 2 different libraries/service for training & predictions
+1. Create models for multivariate indicators
 
 ## Apr 6, 2022
 
