@@ -1,6 +1,6 @@
 # Project Title
 
-Google Trends + Other Indicators (Fear & Greed Index, Reuters Sentiment)
+Google Trends + Fear & Greed Index + Price
 
 # Team Members
 
