@@ -10,13 +10,13 @@ Mitch Rose
 
 # Project Description / Outline
 
-Predict Bitcoin price based on Indicators (Google Trends, etc.)
+Compare two different models (univariate [Prophet] vs. multivariate [Keras/Sequentia]) to
+determine which provides more accurate predictions regarding Bitcoin price.
 
 # Research Questions to Answer
 
-1. How do we discover our options for models and scalers (libraries, services, etc.)
-1. Which indicators will best predict Bitcoin's price?
-1. Which model and scaler works best for a given set of indicators?
+1. Regarding multivariate models, which indicators will best predict Bitcoin's price?
+1. How do the two models compare to one another?
 
 # Datasets to be Used
 
