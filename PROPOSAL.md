@@ -22,7 +22,6 @@ determine which provides more accurate predictions regarding Bitcoin price.
 
 1. Google Trends (PyTrends)
 1. Alpaca (BTC)
-1. Reuters
 1. Fear and Greed Index
 
 # Task Breakdown (Due Dates; End of Class)
