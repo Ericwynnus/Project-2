@@ -1,0 +1,184 @@
+,value_classification,date
+0,Neutral,04-06-2022
+1,Neutral,04-05-2022
+2,Neutral,04-04-2022
+3,Neutral,04-03-2022
+4,Neutral,04-02-2022
+5,Neutral,04-01-2022
+6,Neutral,03-31-2022
+7,Greed,03-30-2022
+8,Greed,03-29-2022
+9,Greed,03-28-2022
+10,Neutral,03-27-2022
+11,Neutral,03-26-2022
+12,Neutral,03-25-2022
+13,Fear,03-24-2022
+14,Fear,03-23-2022
+15,Fear,03-22-2022
+16,Fear,03-21-2022
+17,Fear,03-20-2022
+18,Fear,03-19-2022
+19,Extreme Fear,03-18-2022
+20,Fear,03-17-2022
+21,Extreme Fear,03-16-2022
+22,Extreme Fear,03-15-2022
+23,Extreme Fear,03-14-2022
+24,Extreme Fear,03-13-2022
+25,Extreme Fear,03-12-2022
+26,Extreme Fear,03-11-2022
+27,Fear,03-10-2022
+28,Extreme Fear,03-09-2022
+29,Extreme Fear,03-08-2022
+30,Extreme Fear,03-07-2022
+31,Extreme Fear,03-06-2022
+32,Extreme Fear,03-05-2022
+33,Fear,03-04-2022
+34,Fear,03-03-2022
+35,Neutral,03-02-2022
+36,Neutral,03-01-2022
+37,Extreme Fear,02-28-2022
+38,Fear,02-27-2022
+39,Fear,02-26-2022
+40,Fear,02-25-2022
+41,Extreme Fear,02-24-2022
+42,Extreme Fear,02-23-2022
+43,Extreme Fear,02-22-2022
+44,Extreme Fear,02-21-2022
+45,Fear,02-20-2022
+46,Extreme Fear,02-19-2022
+47,Fear,02-18-2022
+48,Neutral,02-17-2022
+49,Neutral,02-16-2022
+50,Fear,02-15-2022
+51,Fear,02-14-2022
+52,Fear,02-13-2022
+53,Fear,02-12-2022
+54,Neutral,02-11-2022
+55,Neutral,02-10-2022
+56,Neutral,02-09-2022
+57,Neutral,02-08-2022
+58,Fear,02-07-2022
+59,Fear,02-06-2022
+60,Fear,02-05-2022
+61,Extreme Fear,02-04-2022
+62,Extreme Fear,02-03-2022
+63,Fear,02-02-2022
+64,Fear,02-01-2022
+65,Extreme Fear,01-31-2022
+66,Fear,01-30-2022
+67,Extreme Fear,01-29-2022
+68,Extreme Fear,01-28-2022
+69,Extreme Fear,01-27-2022
+70,Extreme Fear,01-26-2022
+71,Extreme Fear,01-25-2022
+72,Extreme Fear,01-24-2022
+73,Extreme Fear,01-23-2022
+74,Extreme Fear,01-22-2022
+75,Extreme Fear,01-21-2022
+76,Extreme Fear,01-20-2022
+77,Extreme Fear,01-19-2022
+78,Extreme Fear,01-18-2022
+79,Extreme Fear,01-17-2022
+80,Extreme Fear,01-16-2022
+81,Extreme Fear,01-15-2022
+82,Extreme Fear,01-14-2022
+83,Extreme Fear,01-13-2022
+84,Extreme Fear,01-12-2022
+85,Extreme Fear,01-11-2022
+86,Extreme Fear,01-10-2022
+87,Extreme Fear,01-09-2022
+88,Extreme Fear,01-08-2022
+89,Extreme Fear,01-07-2022
+90,Extreme Fear,01-06-2022
+91,Extreme Fear,01-05-2022
+92,Extreme Fear,01-04-2022
+93,Fear,01-03-2022
+94,Fear,01-02-2022
+95,Extreme Fear,01-01-2022
+96,Fear,12-31-2021
+97,Extreme Fear,12-30-2021
+98,Fear,12-29-2021
+99,Fear,12-28-2021
+100,Fear,12-27-2021
+101,Fear,12-26-2021
+102,Fear,12-25-2021
+103,Fear,12-24-2021
+104,Fear,12-23-2021
+105,Fear,12-22-2021
+106,Fear,12-21-2021
+107,Extreme Fear,12-20-2021
+108,Fear,12-19-2021
+109,Extreme Fear,12-18-2021
+110,Extreme Fear,12-17-2021
+111,Fear,12-16-2021
+112,Fear,12-15-2021
+113,Extreme Fear,12-14-2021
+114,Fear,12-13-2021
+115,Fear,12-12-2021
+116,Extreme Fear,12-11-2021
+117,Extreme Fear,12-10-2021
+118,Fear,12-09-2021
+119,Fear,12-08-2021
+120,Extreme Fear,12-07-2021
+121,Extreme Fear,12-06-2021
+122,Extreme Fear,12-05-2021
+123,Extreme Fear,12-04-2021
+124,Fear,12-03-2021
+125,Fear,12-02-2021
+126,Fear,12-01-2021
+127,Fear,11-30-2021
+128,Fear,11-29-2021
+129,Fear,11-28-2021
+130,Extreme Fear,11-27-2021
+131,Neutral,11-26-2021
+132,Fear,11-25-2021
+133,Fear,11-24-2021
+134,Fear,11-23-2021
+135,Neutral,11-22-2021
+136,Neutral,11-21-2021
+137,Fear,11-20-2021
+138,Fear,11-19-2021
+139,Neutral,11-18-2021
+140,Neutral,11-17-2021
+141,Greed,11-16-2021
+142,Greed,11-15-2021
+143,Greed,11-14-2021
+144,Greed,11-13-2021
+145,Greed,11-12-2021
+146,Extreme Greed,11-11-2021
+147,Greed,11-10-2021
+148,Extreme Greed,11-09-2021
+149,Greed,11-08-2021
+150,Greed,11-07-2021
+151,Greed,11-06-2021
+152,Greed,11-05-2021
+153,Greed,11-04-2021
+154,Extreme Greed,11-03-2021
+155,Greed,11-02-2021
+156,Greed,11-01-2021
+157,Greed,10-31-2021
+158,Greed,10-30-2021
+159,Greed,10-29-2021
+160,Greed,10-28-2021
+161,Greed,10-27-2021
+162,Extreme Greed,10-26-2021
+163,Greed,10-25-2021
+164,Greed,10-24-2021
+165,Greed,10-23-2021
+166,Greed,10-22-2021
+167,Extreme Greed,10-21-2021
+168,Extreme Greed,10-20-2021
+169,Greed,10-19-2021
+170,Extreme Greed,10-18-2021
+171,Extreme Greed,10-17-2021
+172,Extreme Greed,10-16-2021
+173,Greed,10-15-2021
+174,Greed,10-14-2021
+175,Greed,10-13-2021
+176,Extreme Greed,10-12-2021
+177,Greed,10-11-2021
+178,Greed,10-10-2021
+179,Greed,10-09-2021
+180,Greed,10-08-2021
+181,Extreme Greed,10-07-2021
+182,Greed,10-06-2021
