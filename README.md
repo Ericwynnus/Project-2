@@ -23,5 +23,6 @@ Compare and contract univariate & multivariate models for price prediction
 
 1. Prophet (with actual data)
 1. Prophet (without actual data)
-1. Keras: Univariate
+1. Keras: Univariate (Google Trends)
+1. Keras: Univariate (Fear and Greed Index)
 1. Keras: Multivariate
