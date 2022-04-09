@@ -26,3 +26,4 @@ Compare and contract univariate & multivariate models for price prediction
 1. Keras: Univariate (Google Trends)
 1. Keras: Univariate (Fear and Greed Index)
 1. Keras: Multivariate
+1. Overlay of all predictions w/ Bitcoin price
