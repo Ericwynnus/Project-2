@@ -8,7 +8,7 @@ Mitch Rose
 
 ## Project Description / Outline
 
-Compare and contract univariate & multivariate models for price prediction
+Compare and contrast univariate & multivariate models for price prediction
 
 ## Project Files
 
