@@ -1,4 +1,4 @@
-# Google Trends as an Indicator for Asset Prices
+# Univariate & Multivariate Machine Learning
 
 ## Team Members
 
