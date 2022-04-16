@@ -18,3 +18,4 @@ Compare and contrast univariate & multivariate models for price prediction
 1. [Keras Model: FNG](App/FNG-2.ipynb)
 1. [Keras Model: Google Trends](App/TensorFlow_Model_GoogleTrends_Price.ipynb)
 1. [Keras Model: Multivariate](App/TensorFlow_Multi.ipynb)
+1. [Findings Summary](FindingsSummaryPart1.md)
