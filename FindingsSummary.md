@@ -46,3 +46,33 @@ We learned that 300 epochs was a good number to use for our models and found tha
 
 ### FNG 1000 Epoch Model
 <img src="Images/fng1000.png" alt="FNG 1000 Epoch Model" width="80%"/>
+
+### Google Trends 10 Epoch Model
+<img src="Images/keras-googletrends-10.png" alt="Google Trends 10 Epoch Model" width="80%"/>
+
+### Google Trends 100 Epoch Model
+<img src="Images/keras-googletrends-100.png" alt="Google Trends 100 Epoch Model" width="80%"/>
+
+### Google Trends 300 Epoch Model
+<img src="Images/keras-googletrends-300.png" alt="Google Trends 300 Epoch Model" width="80%"/>
+
+### Google Trends 500 Epoch Model
+<img src="Images/keras-googletrends-500.png" alt="Google Trends 500 Epoch Model" width="80%"/>
+
+### Google Trends 1000 Epoch Model
+<img src="Images/keras-googletrends-1000.png" alt="Google Trends 1000 Epoch Model" width="80%"/>
+
+### Multivariate 10 Epoch Model
+<img src="Images/keras-multi-10.png" alt="Multivariate 10 Epoch Model" width="80%"/>
+
+### Multivariate 100 Epoch Model
+<img src="Images/keras-multi-100..png" alt="Multivariate 100 Epoch Model" width="80%"/>
+
+### Multivariate 300 Epoch Model
+<img src="Images/keras-multi-300..png" alt="Multivariate 300 Epoch Model" width="80%"/>
+
+### Multivariate 500 Epoch Model
+<img src="Images/keras-multi-500..png" alt="Multivariate 500 Epoch Model" width="80%"/>
+
+### Multivariate 1000 Epoch Model
+<img src="Images/keras-multi-1000..png" alt="Multivariate 1000 Epoch Model" width="80%"/>
