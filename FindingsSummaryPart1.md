@@ -4,7 +4,7 @@
 
 The Fear and Greed Index was the best predictor of Bitcoin price because it's made up of a variety of components. The Fear and Greed Index includes Bitcoin's dominance in the overall market, market momentum/volume, social media, Google Trends, and volatility. Thus, because the crypto Fear and Greed Index already includes Google Trends as an input along with a variety of others, it's clear that the Fear and Greed Index is a more well-rounded input. The Fear and Greed Index single-feature model also performed better than its Google Trends counterpart based on the charts we created.
 
-<img src="Images/overlay.png" alt="Overlay all charts" width="80%"/>
+<img src="Images/overlay.png" alt="Overlay all charts" width="80%" title="Overlay all charts"/>
 
 <img src="Images/fng300.png" alt="FNG 300 Epoch Model" width="80%"/>
 
